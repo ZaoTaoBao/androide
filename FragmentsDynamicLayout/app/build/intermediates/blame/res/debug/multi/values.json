@@ -1,0 +1,412 @@
+[
+    {
+        "outputFile": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 59,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 59,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 43,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 43,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 56,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 56,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 54,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 54,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 41,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 41,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 44,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 44,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 56,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 56,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 52,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 52,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endColumn": 38,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 38,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 52,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 52,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 38,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 38,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 38,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 38,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 46,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 46,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 42,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 42,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 40,
+                    "endOffset": 1110
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 40,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1115,
+                    "endColumn": 49,
+                    "endOffset": 1160
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 49,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1165,
+                    "endColumn": 39,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 39,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endColumn": 41,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 41,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1533
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1538,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\FragmentsDynamicLayout\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
