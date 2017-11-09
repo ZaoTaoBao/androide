@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 396
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\arrays.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 447
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 491
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 603
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 645
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 690
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 747
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 839
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 892
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 931
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 970
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1017
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1060
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 1101
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 1151
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 1191
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 1233
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -375,7 +375,7 @@
                     "endOffset": 1524
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -396,7 +396,7 @@
                     "endOffset": 1684
                 },
                 "from": {
-                    "file": "C:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

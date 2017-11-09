@@ -58,6 +58,29 @@ public class MainActivity extends Activity {
 		});
 		
 		defaultHourTextView = (TextView) findViewById(R.id.defaultHourLabel);
+
+
+
+		Button save = (Button) findViewById(R.id.saveButton);
+		save.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				/*
+				CourseRecord courseRecord = new CourseRecord();
+				TextView viewCredit= (TextView)findViewById(R.id.creditsEditText);
+
+				courseRecord.setCredito(String.valueOf(viewCredit.getText()));
+
+				courseRecord.setDia("");
+				courseRecord.setHora("");
+				courseRecord.setId(1);
+				courseRecord.setNombreAsig("");
+				courseRecord.save();
+				*/
+
+			}
+		});
+
 	}
 	
 	// Implementation of the OnTimeSetListener interface

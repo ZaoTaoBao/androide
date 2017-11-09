@@ -1,7 +1,7 @@
-#Mon Oct 30 10:58:02 CET 2017
-base.0=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cadba2f4e23fc6af7a3f48ce8de57313dc581522
+#Thu Nov 09 16:30:04 CET 2017
+base.0=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94d824d04970e815bf483136197b17a756b935cf
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8c6997086b847d7ab78c112de269a8a2a55de7d\\classes.dex
-base.1=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8c6997086b847d7ab78c112de269a8a2a55de7d
-file.0=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cadba2f4e23fc6af7a3f48ce8de57313dc581522\\classes.dex
+file.1=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1ffdc1c5580f280486c559ed24f8e83719fab0da\\classes.dex
+base.1=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1ffdc1c5580f280486c559ed24f8e83719fab0da
+file.0=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94d824d04970e815bf483136197b17a756b935cf\\classes.dex
