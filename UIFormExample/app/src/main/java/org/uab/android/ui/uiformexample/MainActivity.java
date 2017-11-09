@@ -15,7 +15,12 @@ import android.widget.TextView;
 import android.widget.TimePicker;
 
 public class MainActivity extends Activity {
-	
+
+    //https://inducesmile.com/android/android-sugar-orm-database/
+    //https://github.com/codepath/android_guides/wiki/Clean-Persistence-with-Sugar-ORM
+    //http://valokafor.com/remember-drag-and-drop-position-with-recyclerview/
+
+
 	AutoCompleteTextView	classesAutoCompleteTextView;
 	TextView				defaultHourTextView;
 	Button					setHourButton;
