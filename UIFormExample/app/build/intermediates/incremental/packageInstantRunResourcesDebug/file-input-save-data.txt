@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 09 16:29:58 CET 2017
+#Thu Nov 09 17:49:26 CET 2017
 1.base=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_
 4.file=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
 1.file=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml

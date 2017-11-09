@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 09 16:30:04 CET 2017
+#Thu Nov 09 17:49:33 CET 2017
 2.base=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 5.set=ANDROID_RESOURCE
