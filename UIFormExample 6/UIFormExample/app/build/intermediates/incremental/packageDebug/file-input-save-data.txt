@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Nov 09 15:22:53 CET 2017
+2.base=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3059c5bf09f1e9978d60b50c2ba4bc3dff9a00ac
+5.file=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=DEX
+4.base=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5b7f1d5f2f0846fcdeee13968ed97c0248c19b4
+count=7
+0.file=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item.xml
+5.base=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3059c5bf09f1e9978d60b50c2ba4bc3dff9a00ac\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5b7f1d5f2f0846fcdeee13968ed97c0248c19b4\\classes.dex
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,7 @@
+#Thu Nov 09 15:22:53 CET 2017
+base.0=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3059c5bf09f1e9978d60b50c2ba4bc3dff9a00ac
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5b7f1d5f2f0846fcdeee13968ed97c0248c19b4\\classes.dex
+base.1=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5b7f1d5f2f0846fcdeee13968ed97c0248c19b4
+file.0=C\:\\Users\\03731720\\AndroidStudioProjects\\UIFormExample 6\\UIFormExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3059c5bf09f1e9978d60b50c2ba4bc3dff9a00ac\\classes.dex
