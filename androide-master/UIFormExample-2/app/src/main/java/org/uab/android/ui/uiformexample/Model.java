@@ -5,7 +5,7 @@ import com.orm.SugarRecord;
 /**
  * Created by zaotaobao on 11/11/17.
  */
-public class Model extends SugarRecord<Model> {
+public class Model extends SugarRecord {
 
     //el idmodel no no hace falta redundante!
     private String idModel;
@@ -76,18 +76,40 @@ public class Model extends SugarRecord<Model> {
      * Devuelve un primer objeto sino, la primera vez tb lo crea.
      * @return Model
      */
-    public Model createFirstModel(){
-        Model model = Model.findById(Model.class, 0L);
-           if(model == null) {
-                model = new Builder()
-                        .idModel("0")
-                        .nombreAsig("Empatía")
-                        .creditos("0")
-                        .dia("0")
+    public void createFirstModel(){
+       //he comentado el código me salta el siguiente error.
+        // java.lang.NullPointerException: SugarContext has not been initialized properly. Call SugarContext.init(Context) in your Application.onCreate() method and SugarContext.terminate() in your Application.onTerminate() method.
+        //modificando la version manifest parece solucionarse
+          Model model1 = Model.findById(Model.class, 1L);
+          Model model2 = Model.findById(Model.class, 2L);
+          Model model3 = Model.findById(Model.class, 3L);
+
+
+                 model1 = new Builder()
+                        .idModel("1")
+                        .nombreAsig("Masajes")
+                        .creditos("9")
+                        .dia("1")
                         .hora("12/12/2012").build();
-                model.save();
-            }
-        return model;
+                model1.save();
+
+        model1 = new Builder()
+                .idModel("2")
+                .nombreAsig("Tantra")
+                .creditos("9")
+                .dia("1")
+                .hora("12/12/2012").build();
+        model1.save();
+
+        model1 = new Builder()
+                .idModel("3")
+                .nombreAsig("Resistencia a la autoridad")
+                .creditos("9")
+                .dia("1")
+                .hora("12/12/2012").build();
+        model1.save();
+
+
     }
 
     public static final class Builder {

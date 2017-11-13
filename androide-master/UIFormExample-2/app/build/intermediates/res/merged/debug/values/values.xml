@@ -365,6 +365,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="hour">Hora:</string>
     <string name="monday">Lun</string>
+    <string name="multiboton">Add/update/detail</string>
     <string name="search_menu_title">Search</string>
     <string name="sethour">Establecer</string>
     <string name="status_bar_notification_info_overflow">999+</string>

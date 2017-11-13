@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -30,40 +31,37 @@ public class ModelItemsAdapter extends RecyclerView.Adapter<ModelItemsAdapter.Vi
 
     static class ViewHolder extends RecyclerView.ViewHolder {
         AutoCompleteTextView classesAutoCompleteTextView;
-        TextView				defaultHourTextView;
-        Button setHourButton;
+        EditText creditosText;
+        TextView defaultHourTextView;
 
-
+       // Button setHourButton;
         ViewHolder(View itemView) {
             super(itemView);
             classesAutoCompleteTextView = (AutoCompleteTextView) itemView.findViewById(R.id.classAutoComplete);
+            creditosText = (EditText) itemView.findViewById(R.id.creditsEditText);
             defaultHourTextView = (TextView) itemView.findViewById(R.id.defaultHourLabel);
-            setHourButton = (Button) itemView.findViewById(R.id.setHourButton);
         }
     }
 
     @Override
     public ModelItemsAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        View layoutView = LayoutInflater.from(parent.getContext()).inflate(R.layout.list_item , parent, false);
+        return new ModelItemsAdapter.ViewHolder(layoutView);
 
-        View heroItemView = LayoutInflater.from(context)
-                .inflate(R.layout.list_item , parent, false);
-        return new ModelItemsAdapter.ViewHolder(heroItemView);
     }
 
+    /**
+     * Se encarga de rellenar la información que mostraremos en la lista de elementos.
+     *
+     * @param holder
+     * @param position
+     */
     @Override
     public void onBindViewHolder(ModelItemsAdapter.ViewHolder holder, int position) {
         final Model item = items.get(position);
-        /*
-        holder.title.setText(item.getTitle());
-        holder.description.setText(item.getDescription());
-
-        String thumbnailUrl = item.getThumbnail().getPath() + "." + item.getThumbnail().getExtension();
-        Picasso.with(context)
-                .load(thumbnailUrl)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(android.R.drawable.ic_dialog_alert)
-                .into(holder.thumbnail);
-            */
+            holder.classesAutoCompleteTextView.setText(item.getNombreAsig()) ;
+            holder.creditosText.setText(item.getCreditos());
+            holder.defaultHourTextView.setText(item.getHora());
     }
 
     @Override

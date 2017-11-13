@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\AndroidGreenORM\\PersistentDataSQLite\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\AndroidGreenORM\\PersistentDataSQLite\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\AndroidGreenORM\\PersistentDataSQLite\\app\\build\\intermediates\\res\\merged\\debug\\layout\\courses_list.xml",
+        "source": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\AndroidGreenORM\\PersistentDataSQLite\\app\\src\\main\\res\\layout\\courses_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\AndroidGreenORM\\PersistentDataSQLite\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\03731720\\Documents\\GitHub\\androide\\AndroidGreenORM\\PersistentDataSQLite\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

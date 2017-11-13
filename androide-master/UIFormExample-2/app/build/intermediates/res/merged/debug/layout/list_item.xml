@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.CardView
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="5dp"
-    cardview:cardCornerRadius="2dp"
-    cardview:cardElevation="3dp"
-    cardview:cardUseCompatPadding="true">
-
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+    android:layout_marginBottom="4dp"
+    android:layout_marginTop="4dp"
+    android:gravity="left"
+    android:orientation="vertical"
+    android:padding="1dp">
 
     <TextView
         android:id="@+id/sep1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="1dp"
         android:text="@string/class_sep"
         style="?android:attr/listSeparatorTextViewStyle" />
 
@@ -29,7 +25,7 @@
         android:layout_below="@+id/sep1"
         android:layout_alignParentLeft="true"
         android:layout_marginTop="15dp"
-        android:layout_marginLeft="10dp"
+        android:layout_marginLeft="0dp"
         android:text="@string/class_name" />
 
     <AutoCompleteTextView
@@ -38,7 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/classLabel"
         android:layout_alignBottom="@+id/classLabel"
-        android:layout_marginLeft="16dp"
+        android:layout_marginLeft="0dp"
         android:layout_toRightOf="@+id/classLabel"
         android:ems="10" >
 
@@ -51,12 +47,12 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/classLabel"
         android:layout_below="@+id/classLabel"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="20dp"
         android:text="@string/credits" />
 
     <EditText
         android:id="@+id/creditsEditText"
-        android:layout_width="50dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/creditLabel"
         android:layout_toRightOf="@+id/creditLabel"
@@ -64,7 +60,7 @@
         android:ems="10"
         android:inputType="numberDecimal" >
     </EditText>
-
+<!--
     <TextView
         android:id="@+id/sep2"
         android:layout_width="match_parent"
@@ -74,7 +70,9 @@
         android:layout_marginTop="25dp"
         android:text="@string/timetable_sep"
         style="?android:attr/listSeparatorTextViewStyle" />
-
+<-->
+<!--
+    quitamos los dias de la semana para simplificar el funcionamiento.
     <TextView
         android:id="@+id/dayOfWeekLabel"
         android:layout_width="wrap_content"
@@ -128,7 +126,7 @@
         android:layout_alignBottom="@+id/checkBoxThu"
         android:layout_toRightOf="@+id/checkBoxThu"
         android:text="@string/friday" />
-
+-->
     <TextView
         android:id="@+id/hourLabel"
         android:layout_width="wrap_content"
@@ -147,5 +145,11 @@
         android:layout_toRightOf="@+id/hourLabel"
         android:layout_marginLeft="15dp"
         android:text="@string/default_hour_label" />
-</RelativeLayout>
-    </android.support.v7.widget.CardView>
+    <!--
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/multiboton" />
+     -->
+</LinearLayout>

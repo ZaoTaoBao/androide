@@ -1,7 +1,0 @@
-#Sat Nov 11 16:10:48 CET 2017
-base.0=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_f51f83d40441179bc389d1b74896f5980fd9d0d8
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afcfd0163cd429d7a8718fa4e2e3ec10e0c7f8c4/classes.dex
-base.1=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afcfd0163cd429d7a8718fa4e2e3ec10e0c7f8c4
-file.0=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_f51f83d40441179bc389d1b74896f5980fd9d0d8/classes.dex

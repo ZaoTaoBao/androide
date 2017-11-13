@@ -19,5 +19,6 @@
     <string name="submit">Guardar</string>
     <string name="clear">Limpiar</string>
     <string name="cancel">Cancelar</string>
+    <string name="multiboton">Add/update/detail</string>
 
 </resources>

@@ -1,7 +1,4 @@
-#Sat Nov 11 16:10:48 CET 2017
-base.0=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e886aeae7727ce722be685e68b8bc060c3a05c42
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b487daad9efd725cf305e18803262999b4f1e0e8/classes.dex
-base.1=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b487daad9efd725cf305e18803262999b4f1e0e8
-file.0=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e886aeae7727ce722be685e68b8bc060c3a05c42/classes.dex
+#Mon Nov 13 18:07:42 CET 2017
+base.0=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\androide-master\\UIFormExample-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\03731720\\Documents\\GitHub\\androide\\androide-master\\UIFormExample-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
