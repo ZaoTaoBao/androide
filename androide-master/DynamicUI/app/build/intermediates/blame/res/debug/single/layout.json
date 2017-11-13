@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zaotaobao/Downloads/androide-master/DynamicUI/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zaotaobao/Downloads/androide-master/DynamicUI/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zaotaobao/Downloads/androide-master/DynamicUI/app/build/intermediates/res/merged/debug/layout/list_view.xml",
+        "source": "/Users/zaotaobao/Downloads/androide-master/DynamicUI/app/src/main/res/layout/list_view.xml"
+    },
+    {
+        "merged": "/Users/zaotaobao/Downloads/androide-master/DynamicUI/app/build/intermediates/res/merged/debug/layout/fragment_details.xml",
+        "source": "/Users/zaotaobao/Downloads/androide-master/DynamicUI/app/src/main/res/layout/fragment_details.xml"
+    }
+]

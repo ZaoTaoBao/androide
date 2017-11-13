@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes">
+        <item>Desarrollo de Apps Móviles</item>
+        <item>Desarrollo de Apps en plataforma Android</item>
+        <item>Desarrollo de Apps en plataforma iOS</item>
+        <item>Desarrollo de Apps en plataforma Windows Phone</item>
+        <item>Desarrollo de Apps Multiplataforma</item>
+    </string-array>
+    <string name="app_name">FragmentsDynamicLayout</string>
+    <string name="cancel">Cancelar</string>
+    <string name="class_name">Nombre asignatura</string>
+    <string name="class_sep">Datos asignatura</string>
+    <string name="clear">Limpiar</string>
+    <string name="credits">Créditos</string>
+    <string name="day_of_week">Día de la semana</string>
+    <string name="default_hour_label">00:00</string>
+    <string name="friday">Vie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hour">Hora:</string>
+    <string name="monday">Lun</string>
+    <string name="sethour">Establecer</string>
+    <string name="submit">Guardar</string>
+    <string name="thursday">Jue</string>
+    <string name="timetable_sep">Horario</string>
+    <string name="tuesday">Mar</string>
+    <string name="wednesday">Mie</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

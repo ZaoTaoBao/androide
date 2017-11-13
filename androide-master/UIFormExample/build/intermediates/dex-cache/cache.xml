@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\03731720\AndroidStudioProjects\UIFormExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1b1a8c3c0fb5b9a9b50df8a726c6a71c9422c4fb">
+        <dex dex="C:\Users\03731720\AndroidStudioProjects\UIFormExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c8c6997086b847d7ab78c112de269a8a2a55de7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\03731720\AndroidStudioProjects\UIFormExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\03731720\AndroidStudioProjects\UIFormExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cadba2f4e23fc6af7a3f48ce8de57313dc581522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\03731720\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\03731720\AndroidStudioProjects\UIFormExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_b925ff554f555af4589bd7b745083b5db70259d5\classes.dex" />
+    </item>
+
+</items>

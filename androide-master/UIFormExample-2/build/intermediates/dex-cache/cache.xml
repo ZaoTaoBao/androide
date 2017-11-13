@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="678cc8c8a26341bf17a7d981332eb7057e3927ca">
+        <dex dex="/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e886aeae7727ce722be685e68b8bc060c3a05c42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b487daad9efd725cf305e18803262999b4f1e0e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zaotaobao/.android/build-cache/5ca2e59389390505aab451e7a9b4c009d80e5962/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305">
+        <dex dex="/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afcfd0163cd429d7a8718fa4e2e3ec10e0c7f8c4/classes.dex" />
+    </item>
+
+</items>

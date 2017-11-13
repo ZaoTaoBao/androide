@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zaotaobao/Downloads/androide-master/PersistentDataSQLite/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zaotaobao/Downloads/androide-master/PersistentDataSQLite/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zaotaobao/Downloads/androide-master/PersistentDataSQLite/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/zaotaobao/Downloads/androide-master/PersistentDataSQLite/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/zaotaobao/Downloads/androide-master/PersistentDataSQLite/app/build/intermediates/res/merged/debug/layout/courses_list.xml",
+        "source": "/Users/zaotaobao/Downloads/androide-master/PersistentDataSQLite/app/src/main/res/layout/courses_list.xml"
+    }
+]

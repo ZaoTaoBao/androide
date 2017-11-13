@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sat Nov 11 16:10:48 CET 2017
+2.base=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e886aeae7727ce722be685e68b8bc060c3a05c42/classes.dex
+5.set=DEX
+3.base=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
+5.base=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e886aeae7727ce722be685e68b8bc060c3a05c42
+4.set=ANDROID_RESOURCE
+6.base=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b487daad9efd725cf305e18803262999b4f1e0e8/classes.dex
+1.set=DEX
+2.file=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b487daad9efd725cf305e18803262999b4f1e0e8
+4.file=/Users/zaotaobao/Downloads/androide-master/UIFormExample-2/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=ANDROID_RESOURCE
