@@ -1,0 +1,26 @@
+<p>
+  square works!
+</p>
+{{miAtributo}} //binding de la clase a la vista 
+
+<button (click)="miBoton($event)" value="pollito">boton binding vista clase</button>
+
+<h2>{{miNumero}}</h2>
+<ul>
+  <li *ngFor="let coche of coches">
+      {{coche.marca}}
+  </li>
+</ul>
+
+
+<div *ngIf="ganas">
+ dale duro  
+</div>
+
+<div *ngIf="!ganas">
+  te estan dando duro 
+ </div>
+
+<button (click)="pasarParam()" value="pollito">boton render</button>
+
+<button (click)="getDetailSize()" >LLAMADA </button>
